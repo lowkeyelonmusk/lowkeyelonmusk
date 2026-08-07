@@ -11,5 +11,5 @@ Passionate Full-Stack Developer specializing in modern Web Applications and stre
 * **Backend & Automation**: Node.js | Express | REST APIs | Git & GitHub Version Control
 
 ### 🔗 Verified Portfolio & Progression
-* 🎖️ **Official freeCodeCamp Profile**: [Explore My Full Coding Journey & Certifications](https://freecodecamp.org/lowkeyelonmusk)
+* 🎖️ **Official freeCodeCamp Profile**: [Explore My Full Coding Journey & Certifications](https://freecodecamp.org/matthew_kakanfo)
 * *Note: For immediate validation, my complete curriculum dashboard link is also mapped to the website/social anchor in my GitHub sidebar.*
